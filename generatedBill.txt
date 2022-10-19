@@ -1,0 +1,11 @@
+
+
+			============================== Your Bill ==============================
+
+			Product Name		Price		Quantity		Calculated Cost
+			Flagyl			150			4			600
+			======================================================================
+Dear Ahmed,
+Original Price = RS:600
+
+Total bill to be paid after (12% dicount) = RS:528
